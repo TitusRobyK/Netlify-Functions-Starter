@@ -7,3 +7,5 @@ and running is clicking the Deploy to Netlify button below. It will clone
 this repository into your own account, and deploy the site to Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/TitusRobyK/Netlify-Functions-Starter)
+
+For an exhaustive understanding for the inner workings of a Netlify Function Refer https://docs.netlify.com/functions/build-with-javascript/
